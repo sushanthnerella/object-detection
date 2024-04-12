@@ -9,3 +9,11 @@ Customizable detection thresholds
 Dependencies:
 Python 3.x
 OpenCV
+Download the pre-trained model files:
+
+Download the frozen_inference_graph.pb and ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt files.
+Place these files in the models/ directory.
+Download the label file:
+
+Download the text file containing labels.
+Place the label file in the labels/ directory.
